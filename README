@@ -29,7 +29,7 @@ This project is a backend server for a Recruitment Management System. It allows 
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/shivanisingh1804/recruitment_system>
    cd recruitment-system
    ```
 
